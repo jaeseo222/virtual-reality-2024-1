@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/EX_MultiPlayer_DisplayUserName/EX_MultiPlayer_DisplayUserName.unity
     guid: 356d670bc8808d8489c65564d6466fcc
+  - enabled: 1
+    path: Assets/W04_HW/W04_HW_Scene_1.unity
+    guid: 1cf112c6ace3c794eaf253a098b7074a
+  - enabled: 1
+    path: Assets/W04_HW/W04_HW_Scene_2.unity
+    guid: 64e99aba19aa08e40b18c284a7f61012
   m_configObjects: {}
